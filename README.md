@@ -1,6 +1,6 @@
 # Hi there, I'm Rahul Maurya 👋
 
-## AI Researcher | Product Growth | Answer Engine Optimization
+## AI x Product Growth | Answer Engine Optimization
 
 > *"I operate at the intersection of product, tech, and growth - basically, where great ideas meet reality, and reality fights back. My job? To make sure reality loses."*
 
