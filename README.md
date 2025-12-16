@@ -67,9 +67,9 @@ I'm always excited to discuss:
 
 **📫 Reach out:**
 - LinkedIn: [imauryarahul](https://linkedin.com/in/imauryarahul)
-- Email: maurya.rahul111@gmail.com
+- Email: rahul@neusearch.ai
 - Neusearch AI: [Neusearch.ai](https://neusearch.ai/)
 
 ---
 
-*"AI can be your next customer and best salesperson"* - Currently proving this hypothesis at a stealth AI startup.
+*"AI can be your next customer and best salesperson"* - Currently proving this hypothesis at Nuesearch AI.
