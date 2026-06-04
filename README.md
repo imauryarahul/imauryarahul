@@ -83,4 +83,4 @@ Or we can just talk cricket — specifically how to read a bouncer early, whethe
 
 ---
 
-*Good AI products don't just answer questions — they move users from stuck to done effortlessly."*
+*"Good AI products don't just answer questions — they move users from stuck to done effortlessly."*
