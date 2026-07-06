@@ -6,7 +6,7 @@
 
 ### 🧩 What I've Been Building
 
-**Neusearch AI — Co-founded & Acquired (Jun 2024 - Apr 2025)**
+**Neusearch AI — Co-founded & Acquired (May 2024 - Apr 2025)**
 
 Started with a sharp insight: as users shifted from Google to ChatGPT and Perplexity, D2C brands had zero visibility into how — or whether — they showed up in AI-generated responses.
 
